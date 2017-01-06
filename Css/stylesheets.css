@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Lato|Tangerine|Ruthie|Covered+By+Your+Grace');
+header
+{
+	text-align: left;
+	background-color: #191919;
+	border-radius: 0pt;
+}
+header:hover
+{
+	background-color: #191919;
+    opacity: 1.0;
+}
+#cabecera
+{
+	background-color: #191919;
+	width: 100%
+}
+.cabecera1
+{
+	width:33%; 
+	float:left; 
+	background-color: #191919;
+}
+.cabecera2
+{
+	width:33%; 
+	float:left; 
+	background-color: #191919;
+}
+.cabecera3
+{
+	width:33%; 
+	float:right; 
+	color: whitesmoke;
+	font-family: Agency FB;
+	font-size: 15pt;
+	background-color: #191919;
+	border-radius: 0pt;
+	text-align: center;
+
+}
+body
+{
+	/*background-image: url("../muzalotto.jpg"); 
+	background-attachment: fixed; 
+	background-repeat: no-repeat; 
+	background-position: center center;
+	background-blend-mode: hard-light;*/
+	background-color: #191919;
+	font-family: Agency FB;
+	text-align: center;
+	font-style: italic;
+	font-size: 30pt;
+	color: linen;
+}
+#main
+{
+	width:100%; 
+	float:left;
+	border-radius: 0pt;
+}
+#titulo
+{
+	color:red;
+	font-family: Covered By Your Grace;
+	font-size: 45pt;
+	font-style: bold;
+}
+#titulo2
+{
+	color:red;
+	font-family: Covered By Your Grace;
+	font-size: 45pt;
+	font-style: bold;
+}
+#titulo3
+{
+	color:red;
+	font-family: Covered By Your Grace;
+	font-size: 45pt;
+	font-style: bold;
+}
+#imagen1
+{
+	opacity: 1.0;
+}
+#imagen2
+{
+	opacity: 1.0;
+}
+#imagen3
+{
+	opacity: 1.0;
+}
+.column1
+{
+	background-color:#191919; 
+	width:33%; 
+	float:left; 
+	border-radius: 0pt;
+}
+.column1:hover
+{
+	background-color:#191919;
+}
+.column2
+{
+	background-color:#191919; 
+	width:33%; 
+	float:left;
+	border-radius: 0pt;
+}
+.column2:hover
+{
+	background-color:#191919;
+}
+.column3
+{
+	background-color:#191919; 
+	width:33%; 
+	float:left; 
+	border-radius: 0pt;
+}
+.column3:hover
+{
+	background-color:#191919;
+}
+#lema
+{
+
+	background-color: #191919;
+	width:100%; 
+	float:left;
+	border-radius: 0pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+	font-family: Lato;
+}
+#lema:hover 
+{
+	background-color: #191919;
+    opacity: 1.0;
+}
+.modelos, .quienes, .vision, .mision, .estudios, .Contactanos
+{
+	background-color: #191919;
+	width:16.5%; 
+	float:left;
+	border-radius: 0pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+}
+.modelos:hover, .quienes:hover, .vision:hover, .mision:hover, .estudios:hover, .Contactanos:hover
+{
+	background-color: #191919;
+	font-size: 31pt;
+	font-style: bold;
+	color: #000000;
+}
+#bienvenida
+{
+	font-size: 40pt;
+}
+#banner
+{
+	background-color: #191919;
+	width: 80px;
+	position: fixed;
+	opacity: 0.4;
+	right:0em;
+	top:2em;
+	border-radius: 0pt;
+}
+#banner:hover
+{
+	background-color: #191919;
+	opacity: 1.0;
+}
+#pie
+{
+	background-color: #191919;
+	text-align: left;
+	font-family: Tangerine;
+	font-size: 40pt;
+	font-style: italic;
+	color: red;
+	opacity: 1.0;
+	border-radius: 0pt;
+	width: 100%
+}
+#pie:hover
+{
+	background-color: #191919;
+    opacity: 1.0;
+}
+.pie1
+{
+	background-color:#191919;
+	width: 50%;
+	float:left;
+	border-radius: 0pt;	
+}
+.pie1:hover
+{
+	background-color:#191919;
+}
+.pie2
+{
+	background-color:#191919;
+	width: 50%;
+	float: left;
+	border-radius: 0pt;
+}
+.pie2:hover
+{
+	background-color:#191919;
+}
+.pie3
+{
+	background-color:#191919;
+	width: 50%;
+	float:left;
+	border-radius: 0pt;
+}
+.pie3:hover
+{
+	background-color:#191919;
+}
+.pie4
+{
+	background-color:#191919;
+	width: 50%;
+	float:left;
+	border-radius: 0pt;
+}
+.pie4:hover
+{
+	background-color:#191919;
+}
+.pie5
+{
+	background-color:#191919;
+	width: 50%;
+	float: left;
+	border-radius: 0pt;
+}
+.pie5:hover
+{
+	background-color:#191919;
+}
+.pie6
+{
+	background-color:#191919;
+	width: 50%;
+	float:right;
+	border-radius: 0pt;
+}
+.pie6:hover
+{
+	background-color:#191919;
+}
+#final
+{
+	font-size: 15pt;
+	color: black;
+	text-shadow: -1px 0 red, 0 1px green, 1px 0 blue, 0 -1px yellow;
+	text-align: left;
+}
